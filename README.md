@@ -1,2 +1,3 @@
 # BlockRepair
 ブロックタップでアイテムを修理
+configでブロックIDを指定できます
