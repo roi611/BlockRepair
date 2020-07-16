@@ -1,0 +1,7 @@
+name: BlockRepair
+main: roi611\blockrepair\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: roi611
+description: 特定のブロックをタップすると手に持っているアイテムを修復します
